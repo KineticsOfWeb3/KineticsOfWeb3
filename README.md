@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*w1L0hZkVS9GiVdH0WFe60w.gif)
+
 <h1 align="center">Hi there, I'm Biliaminu Abdulfarid! ✋ 💻</h1>
 <h3 align="center">I'm a passionate software developer and blockchain enthusiast. I Specialize in creating decentralized applications (dApps) and leveraging blockchain technology to build innovative solutions.Proficient in writing smart contracts, auditing smart contracts, and well-versed in DeFi (Decentralized Finance) protocols. Experience: Actively involved in the blockchain community, contributing to projects, and staying updated with the latest trends and advancements. I'm actively seeking job opportunities in both web2 and web3 domains. I'm enthusiastic about continuous learning and professional growth as a developer. Please don't hesitate to contact me with any questions, job offers, or simply to chat. I'm open to connecting and exploring potential collaborations.</h3>
 
